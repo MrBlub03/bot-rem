@@ -6,7 +6,6 @@ import asyncio
 import aiohttp
 import time
 import json
-import youtube_dl
 import os
 from discord import Game
 from discord.ext import commands
